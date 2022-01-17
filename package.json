@@ -1,6 +1,6 @@
 {
   "name": "djs-marshal-utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Utilities for making bots with discord.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,11 +14,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DeathVenom54/djs-marshal-utils/issues"
   },
-  "homepage": "https://github.com/DeathVenom54/djs-marshal-utils#readme",
+  "homepage": "https://deathvenom54.github.io/djs-marshal-utils/index.html",
   "peerDependencies": {
     "discord.js": "^13.1.0"
   },
