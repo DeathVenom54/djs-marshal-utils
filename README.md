@@ -41,4 +41,4 @@ import { errorEmbed } from "djs-marshal-utils/embeds";
 
 ## Documentation
 
-Documentation site
+[Documentation site](https://deathvenom54.github.io/djs-marshal-utils/index.html)
