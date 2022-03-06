@@ -6,4 +6,7 @@ export default {
   embeds,
   interceptors,
   checks,
+  ...embeds,
+  ...interceptors,
+  ...checks,
 };
