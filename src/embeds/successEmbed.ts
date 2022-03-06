@@ -10,5 +10,5 @@ import { simpleEmbed } from './simpleEmbed';
  * @return {MessageEmbed} The created embed
  */
 export const successEmbed = (message: string, details?: string, emoji?: EmojiResolvable): MessageEmbed => {
-  return simpleEmbed(message, 'RED', { description: details, emoji });
+  return simpleEmbed(message, 'GREEN', { description: details, emoji });
 };
