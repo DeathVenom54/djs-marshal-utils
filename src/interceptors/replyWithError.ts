@@ -25,6 +25,7 @@ export const replyWithError = async (
   } else {
     await interaction.reply({
       embeds: [embed],
+      ephemeral,
     });
   }
 };

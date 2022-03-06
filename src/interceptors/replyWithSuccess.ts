@@ -25,6 +25,7 @@ export const replyWithSuccess = async (
   } else {
     await interaction.reply({
       embeds: [embed],
+      ephemeral,
     });
   }
 };
