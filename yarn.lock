@@ -78,6 +78,11 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.2.1.tgz#b88b5724283db80b507cd612caee9a1947412a20"
   integrity sha512-BrzrgtaqEre0qfvI8sMTaEvx+bayuhPmfe2rfeUGPPHYr/PLxCOqkOe4TQTDPb+qcqgNcsAtXV/Ew74mcDIE8w==
 
+"@types/is-number@^7.0.2":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@types/is-number/-/is-number-7.0.2.tgz#b8cc7cef635544acdd4325104888edbae940b460"
+  integrity sha512-5SVdfYSyNOc16O1wp/cfFN2i/tCFAriWKzKk2RkUIT0Ec+jvvX+oBPbNSRpuBwSobXX+gRjaamE2y0Z10sgO5A==
+
 "@types/json-schema@^7.0.9":
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz#97edc9037ea0c38585320b28964dde3b39e4660d"
